@@ -1,6 +1,6 @@
 # MERN Stack Project: Real Time Chat App 
 
-[Live]([https://i.ibb.co/gFSMzKN/1.png](https://chat-application-sdig.onrender.com/login))
+[Live Deployment](https://chat-application-sdig.onrender.com/login)
 
 Some Features:
 
